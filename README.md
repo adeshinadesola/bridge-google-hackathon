@@ -9,14 +9,8 @@
   <p align="center">
    Helping immigrants get the resources they need
     <br/>
-    <br/>
-    <a href="https://github.com/johnmccants002/bridge-google-hackathon/issues">Report Bug</a>
-    |
-    <a href="https://github.com/johnmccants002/bridge-google-hackathon/issues">Request Feature</a>
   </p>
 </p>
-
-![Downloads](https://img.shields.io/github/downloads/johnmccants002/bridge-google-hackathon/total)
 
 ## Table Of Contents
 
